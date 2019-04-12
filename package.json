@@ -1,0 +1,25 @@
+{
+  "name": "ts-hyper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgtkr/ts-hyper.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kgtkr/ts-hyper/issues"
+  },
+  "homepage": "https://github.com/kgtkr/ts-hyper#readme",
+  "devDependencies": {
+    "typescript": "^3.4.3"
+  },
+  "dependencies": {
+    "typepark": "^0.3.2"
+  }
+}
