@@ -2,15 +2,13 @@
   "name": "ts-hyper",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "src/index.ts",
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kgtkr/ts-hyper.git"
   },
-  "author": "",
+  "author": "kgtkr",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kgtkr/ts-hyper/issues"
